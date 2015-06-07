@@ -1,7 +1,8 @@
 
 ave<-function(x,sm=0){
-  d<-dim(x)
+  
   k<-as.data.frame(x)
+  d<-dim(k)
   for (i in 1:d[1])
   {
     sm<-sm+k[i,1]
