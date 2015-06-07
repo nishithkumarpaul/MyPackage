@@ -1,0 +1,11 @@
+Package: MyPackage
+Type: Package
+Title: Column mean
+Version: 1.0
+Date: 2015-05-12
+Author: Nishith Kumar
+Maintainer: Nishith Kumar <nk.bru09@gmail.com>
+Description: Column mean
+License: MIT
+LazyData: true
+
